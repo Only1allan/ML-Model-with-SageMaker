@@ -175,11 +175,3 @@ Consult the SageMaker Developer Guide for comprehensive documentation, the XGBoo
 ### Learning Resources
 
 Explore AWS SageMaker Sample Notebooks for additional examples, XGBoost Algorithm Research Papers for theoretical understanding, and Machine Learning Best Practices guides for production deployment strategies.
-
-### Support Channels
-
-Get help through AWS Support Plans for direct technical assistance, SageMaker Community Forums for peer-to-peer help, and Stack Overflow using the amazon-sagemaker tag for community-sourced solutions.
-
-## Project Metadata
-
-This project follows AWS's sample code license terms. Feel free to submit issues or pull requests for improvements. This guide was last updated for the current date, tested in the US West Oregon Region, has an estimated completion time of 30 to 45 minutes, and is rated at an intermediate difficulty level suitable for users with basic Python and AWS knowledge.
